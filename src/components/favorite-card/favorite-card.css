@@ -1,5 +1,19 @@
 .favorite-card {
-  background-color: #f20;
+  background-color: #fff2f0;
   width: 10rem;
   height: 10rem;
+  display: grid;
+  place-items: center;
+  border-radius: 20%;
+}
+
+.favorite-card__inner {
+  display: grid;
+  justify-items: center;
+  row-gap: 0.5em;
+}
+
+.favorite-card__text {
+  color: #4d0a00;
+  font-weight: bold;
 }
