@@ -4,7 +4,7 @@
   height: 10rem;
   display: grid;
   place-items: center;
-  border-radius: 20%;
+  border-radius: 2rem;
 }
 
 .favorite-card__inner {
@@ -15,5 +15,4 @@
 
 .favorite-card__text {
   color: #4d0a00;
-  font-weight: bold;
 }
