@@ -3,13 +3,9 @@
   width: 10rem;
   height: 10rem;
   display: grid;
-  place-items: center;
   border-radius: 2rem;
-}
-
-.favorite-card__inner {
-  display: grid;
   justify-items: center;
+  align-content: center;
   row-gap: 0.5em;
 }
 
