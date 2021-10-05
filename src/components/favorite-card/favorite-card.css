@@ -13,10 +13,6 @@
   row-gap: 0.5em;
 }
 
-.favorite-card__text {
-  color: #4d0a00;
-}
-
 .favorite-card--fruits {
   background-color: #fff2f0;
   color: #4d0a00;
