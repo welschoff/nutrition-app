@@ -1,5 +1,9 @@
+.favorite-cards {
+  display: flex;
+  column-gap: 1rem;
+}
+
 .favorite-card {
-  background-color: #fff2f0;
   width: 10rem;
   height: 10rem;
   display: grid;
@@ -11,4 +15,16 @@
 
 .favorite-card__text {
   color: #4d0a00;
+}
+
+.favorite-card--fruits {
+  background-color: #fff2f0;
+}
+
+.favorite-card--vegetables {
+  background-color: #eff7ee;
+}
+
+.favorite-card--snacks {
+  background-color: #fff8eb;
 }
