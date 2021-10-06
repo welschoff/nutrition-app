@@ -5,12 +5,18 @@
   box-sizing: border-box;
 }
 
+:root {
+  --font-family: "Signika", sans-serif;
+  --color-primary: #91c788;
+  --color-secondary: #ff8473;
+}
+
 html {
   font-size: 16px;
 }
 
 body {
-  font-family: "Signika", sans-serif;
+  font-family: var(--font-family);
   margin: 0;
 }
 
@@ -20,5 +26,5 @@ select,
 optgroup,
 textarea {
   margin: 0;
-  font-family: "Signika", sans-serif;
+  font-family: var(--font-family);
 }
