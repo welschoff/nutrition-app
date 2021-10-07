@@ -1,6 +1,8 @@
-# Storybook HTML
+# Nutrition App
 
-This repository demonstrates how to use [Storybook](https://storybook.js.org/) for HTML and CSS/SCSS. You can use this repository as template.
+This repository is used as an exercise for the neuefische bootcamp `cgn-web-21-4`. The task is to get comfortable with [Component Driven Development](https://www.componentdriven.org/) using [Storybook](https://storybook.js.org/) for HTML and CSS/SCSS.
+
+All components are based on [this Figma Community](https://www.figma.com/community/file/969050851928115321) design. Thanks to [@salman](https://www.figma.com/@salmanwap) for creating and sharing this UI Kit
 
 ## Getting Started
 
