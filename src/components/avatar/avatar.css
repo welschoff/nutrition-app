@@ -1,5 +1,23 @@
 .avatar {
+  position: relative;
+}
+
+.avatar__image {
   border-radius: 50%;
-  height: 100px;
-  width: 100px;
+  height: 10rem;
+  width: 10rem;
+}
+
+.avatar__badge {
+  width: 1.5rem;
+  height: 1.5rem;
+  position: absolute;
+  bottom: 0.5rem;
+  right: 1.25rem;
+  background-color: var(--color-secondary);
+  color: var(--color-contrast);
+  border-radius: 50%;
+  border: 2px solid var(--color-contrast);
+  display: grid;
+  place-items: center;
 }
