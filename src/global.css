@@ -9,6 +9,8 @@
   --font-family: "Signika", sans-serif;
   --color-primary: #91c788;
   --color-secondary: #ff8473;
+  --color-inactive: #fff8ee;
+  --color-contrast: #fff;
 }
 
 html {
