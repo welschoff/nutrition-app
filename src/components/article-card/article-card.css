@@ -1,5 +1,5 @@
 .card {
-  display: inline-grid;
+  display: grid;
   grid-template-columns: 50% 50%;
   background: linear-gradient(
     106.1deg,
